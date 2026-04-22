@@ -1,55 +1,46 @@
 # Faculdade
 
-Bem-vindo ao meu repositório de práticas diárias.
+Este repositório foi criado com o objetivo de registrar, organizar e acompanhar minha evolução diária nos estudos e nas práticas de programação. Aqui reúno exercícios, testes, implementações, experimentos e pequenos projetos desenvolvidos ao longo da minha rotina de aprendizado.
 
-Este espaço foi criado para registrar minha evolução nos estudos e no desenvolvimento de projetos ao longo do tempo. Aqui compartilho exercícios, testes, implementações e pequenas construções que fazem parte da minha rotina de aprendizado em programação.
+---
 
-A proposta deste repositório é funcionar como um histórico da minha jornada, permitindo acompanhar de forma clara meu progresso diário, as tecnologias que venho praticando e a forma como minhas habilidades estão sendo desenvolvidas na prática.
+## `01` Objetivo
 
-## Objetivo
+O principal objetivo deste repositório é documentar minha evolução técnica de forma organizada, reunindo atividades realizadas diariamente em diferentes áreas da programação e do desenvolvimento de software. Além de servir como registro pessoal de aprendizado, este espaço permite acompanhar minha prática contínua, a diversidade de conteúdos estudados e a construção gradual do meu conhecimento.
 
-Manter um registro organizado das minhas práticas diárias, reunindo conteúdos desenvolvidos durante os estudos para acompanhar minha evolução técnica e meu processo de aprendizagem de forma contínua.
+---
 
-## Organização do repositório
+## `02` Organização
 
-Os conteúdos estão organizados por dias de prática.
-
-Cada pasta representa um dia específico de estudo, e dentro dela estão os arquivos, códigos, exercícios ou pequenos projetos desenvolvidos naquele período.
-
-### Exemplo de estrutura
+Os conteúdos estão organizados por dias de prática. Cada pasta representa um dia específico de estudo, com arquivos, códigos, exercícios ou pequenos projetos desenvolvidos naquele período.
 
 ```bash
 Faculdade/
+├── README.md
 ├── 01/
 │   └── atividade-do-dia
 ├── 02/
 │   └── atividade-do-dia
 ├── 03/
 │   └── atividade-do-dia
-└── README.md
-Conteúdos que podem aparecer aqui
+└── 04/
+    └── atividade-do-dia
+```
 
-Ao longo deste repositório, podem ser encontrados estudos e práticas envolvendo diferentes tecnologias e temas, como:
+---
 
-React
-Bootstrap
-Python
-HTML
-CSS
-JavaScript
-Git e GitHub
-Lógica de programação
-Componentização
-Estruturação de interfaces
-Pequenos projetos e experimentos práticos
-Propósito deste repositório
+## `03` Tecnologias
 
-Mais do que armazenar códigos, este repositório representa meu processo de evolução como estudante e desenvolvedor. Cada pasta adicionada aqui simboliza um passo no meu aprendizado, servindo como registro da minha constância, prática e desenvolvimento técnico ao longo do tempo.
+`React` `Bootstrap` `Python` `HTML` `CSS` `JavaScript` `Git & GitHub` `Lógica de programação` `Componentização` `Estruturação de interfaces`
 
-Observação
+---
 
-Os conteúdos deste repositório podem variar bastante de um dia para o outro, já que o foco é justamente documentar diferentes práticas, experiências e exercícios realizados durante minha jornada de aprendizado.
+## `04` Propósito
 
-Acompanhamento da evolução
+Mais do que armazenar códigos, este repositório representa meu processo de evolução como estudante e desenvolvedor. Cada pasta adicionada simboliza um passo no meu aprendizado — um registro da minha constância, prática e desenvolvimento técnico ao longo do tempo. A intenção é que este espaço mostre não apenas resultados finais, mas também o caminho percorrido durante minha formação e meu aprimoramento diário.
 
-Este repositório também foi pensado como uma forma de tornar minha evolução visível. Conforme novos estudos forem sendo realizados, novas pastas e atividades serão adicionadas, permitindo acompanhar com mais clareza meu desenvolvimento prático ao longo dos dias.
+---
+
+## `05` Observação
+
+Os conteúdos podem variar bastante de um dia para o outro, já que o foco é justamente documentar diferentes práticas e experiências. Nem todos os diretórios seguem o mesmo padrão de tecnologia ou complexidade — cada pasta reflete o que foi estudado naquele dia específico. Conforme novos estudos forem realizados, novas pastas serão adicionadas, tornando este repositório um registro contínuo da minha trajetória.
