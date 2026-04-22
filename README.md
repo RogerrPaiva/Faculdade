@@ -31,8 +31,7 @@ Faculdade/
 
 ## `03` Tecnologias
 
-`React` `Bootstrap` `Python` `HTML` `CSS` `JavaScript` `Git & GitHub` `Lógica de programação` `Componentização` `Estruturação de interfaces`
-
+`React` `Bootstrap` `Tailwind` `Python` `HTML` `CSS` `JavaScript` `Git & GitHub` `Lógica de programação` `Componentização` `Estruturação de interfaces` `IA` 
 ---
 
 ## `04` Propósito
